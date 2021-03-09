@@ -1,0 +1,7 @@
+kick_message: '§6Cerberus §7| §fВы были кикнуты за подозрение в §6читерстве'
+ban_message: '§6Cerberus §7| §fВы забанены за §6читерство. §fБан пройдёт §6автоматически §fчерез §6{time}'
+
+kick_broadcast: '§6Cerberus §7| {player} §fбыл §6кикнут §fза подозрение §6в читерстве'
+ban_broadcast: '§6Cerberus §7| {player} §fбыл §6забанен §fза §6читерство'
+
+staff_notify: '§6Cerberus §7| {player} нарушил проверку §6{hacktype}. §fVL §6{vl} §f| Пинг §6{ping}'
