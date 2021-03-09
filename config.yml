@@ -1,0 +1,33 @@
+
+project:
+  display: 'xFlardenovProject'
+  web: 'vk.com/flardenovdev'
+  
+mysql:
+  host: 'localhost'
+  user: 'root'
+  password: 'root'
+  
+verify:
+  code: '#809D9j'
+  
+only-api: false
+
+board:
+  update: 120
+  enable: true
+  
+level:
+  enable: true
+
+economy:
+  enable: true
+  
+tags:
+  enable: true
+  
+languages:
+  ru:
+    url: ''
+  en:
+    url: ''
