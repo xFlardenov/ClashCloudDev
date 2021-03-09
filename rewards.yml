@@ -1,0 +1,214 @@
+2:
+  lore:
+    - ''
+    - '&fВ награде:'
+    - ' &8• &e+1000 монет'
+    - ''
+   items:
+     fill:
+       material: 342
+       data: 0
+    nofill:
+      material: 328
+      data: 0
+   messages:
+   - '&6Награды &8| &fВы забрали награду за &a{level} уровень:'
+   - '&8 -&e +1000 монеток'
+   commands:
+     - 'eco give {player} coins 1000'
+3:
+  lore:
+    - ''
+    - '&fВ награде:'
+    - ' &8• &e+1150 монет'
+    - ' &8• &6+3 золота'
+    - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+   messages:
+   - '&6Награды &8| &fВы получили награду за &a{level} уровень:'
+   - '&8 -&e +1150 монет'
+   - '&8 -&6 +3 золота'
+   commands:
+     - 'eco give {player} coins 1150'
+     - 'eco give {player} gold 3'
+4:
+  lore:
+    - ''
+    - '&fВ награде:'
+    - ' &8• &e+1270 монет'
+    - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1270 монет"
+  commands:
+    - 'eco give {player} coins 1270'
+5:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1320 монет'
+   - ' &8• &6+3 золота'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1320 монет"
+  - "§8 -&6 +3 золота"
+  commands:
+   - 'eco give {player} coins 1320'
+   - 'eco give {player} gold 3'
+6:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1450 монет'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1450 монет"
+  commands:
+   - 'eco give {player} coins 1450'
+7:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1510 монет'
+   - ' &8• &6+3 золота'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1780 монет"
+  - "§8 -&6 +4 золота"
+  commands:
+   - 'eco give {player} coins 1510'
+   - 'eco give {player} gold 3'
+8:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1625 монет'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1625 монет"
+  commands:
+   - 'eco give {player} coins 1625'
+9:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1780 монет'
+   - ' &8• &6+4 золота'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +1780 монет"
+  - "§8 -&6 +4 золота"
+  commands:
+   - 'eco give {player} coins 1780'
+   - 'eco give {player} gold 4'
+10:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1815 монет'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+    - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+    - "§8 -&e +1815 монет"
+  commands:
+   - 'eco give {player} coins 1815'
+11:
+  lore:
+   - ''
+   - '&fВ награде:'
+   - ' &8• &e+1975 монет'
+   - ' &8• &6+5 золота'
+   - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+    - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+    - "§8 - &e1975 монет"
+    - "§8 - &65 золота"
+  commands:
+   - 'eco give {player} coins 1975'
+   - 'eco give {player} gold 5'
+12:
+  lore:
+  - ''
+  - '&fВ награде:'
+  - ' &8• &e+2065 монет'
+  - ''
+  items:
+    fill:
+      material: 342
+      data: 0
+    nofill:
+      material: 328
+      data: 0
+  messages:
+  - "§6Награды §8| §fВы забрали награду за §e{level} уровень:"
+  - "§8 -&e +2065 монет"
+  commands:
+  - 'eco give {player} coins 2065'
+        
