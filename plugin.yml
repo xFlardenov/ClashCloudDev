@@ -1,0 +1,4 @@
+name: CLAPI
+main: ua.flardenov.clashapi.ClashAPI
+version: 1.0
+author: 'xFlardenov'
