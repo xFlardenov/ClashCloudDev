@@ -1,0 +1,7 @@
+name: ClashProjectile
+version: 1.0
+main: ua.danya.swprojectiletrail.SwProjectileTrail
+commands:
+  swprojectiletrail:
+   permission: swkilleffect.swkilleffect
+   aliases: [swpt, swptrail]
